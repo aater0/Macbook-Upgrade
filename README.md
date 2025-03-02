@@ -33,6 +33,9 @@ This project documents the upgrade of a 2010 MacBook, where I increased the RAM 
    - Disconnect the old HDD by unscrewing it and removing the cables.
    - Place the new 1TB SSD into the mounting bracket and connect it to the SATA cable.
    - Secure the SSD in place with screws.
+  
+   ![Computer upgrade](https://github.com/user-attachments/assets/b072040d-8bd2-479f-a085-163bfb96c188)
+
 
 5. **Reassembly**
    - Once the RAM and SSD are installed, carefully reattach the back panel and secure it with screws.
