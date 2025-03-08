@@ -1,3 +1,6 @@
+![macbook 2010 2](https://github.com/user-attachments/assets/243062d9-2c77-44aa-9d92-a8e0b7d096d6)
+
+
 # Macbook-Upgrade
 2010 Macbook hardware upgrades
 
@@ -43,6 +46,9 @@ This project documents the upgrade of a 2010 MacBook, where I increased the RAM 
 6. **System Setup**
    - Power on the MacBook and boot into macOS.
    - Run diagnostics to ensure all components are functioning correctly.
+  
+   ![macbook finished](https://github.com/user-attachments/assets/c5409d88-7364-49dd-98c5-73ac69623c24)
+
   
 ## Results
 After completing the upgrade, the MacBook demonstrated a noticeable improvement in speed and reliability. The system runs smoother, applications load faster, and multitasking has become more efficient. The 1TB SSD also provides ample storage space for data and software.
